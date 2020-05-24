@@ -1,5 +1,9 @@
 # notes.test
 
+## Demo
+
+You can try it out yourself [right here](https://krannog.hhos.ru/takhir.kikot/projects/notes.test/).
+
 ## Project setup
 ```
 npm install
