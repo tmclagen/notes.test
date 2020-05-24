@@ -23,6 +23,17 @@ export default {
   --color-error: hsl(0, 65%, 55%);
   --color-error-down: hsl(0, 55%, 50%);
 }
+
+::-moz-selection
+{
+  background-color: var(--color-accent);
+  color: #fff;
+}
+::selection
+{
+  background-color: var(--color-accent);
+  color: #fff;
+}
 body
 {
   background-color: hsla(0, 0%, 98%);
